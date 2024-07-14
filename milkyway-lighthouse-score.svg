@@ -20,7 +20,7 @@
 			}
 
 			.guage-red {
-				color: #ff4e42;
+				<!-- color: #ff4e42; -->
 				fill: #ff4e42;
 				stroke: #ff4e42
 			}
