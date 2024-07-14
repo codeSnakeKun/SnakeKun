@@ -1,5 +1,5 @@
 ---
-title: 'AI 答题应用平台'
+title: 'AI 答题应用平台(待完成)'
 description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
 image:
     url: '/GitHub.webp'
